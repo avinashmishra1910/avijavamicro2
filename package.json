@@ -1,7 +1,7 @@
 {
   "name": "nodejs-simple",
   "version": "0.1.0",
-  "description": "Simple Node.js application Test",
+  "description": "Simple Node.js application Test1",
   "license": "Apache-2.0",
   "scripts": {
     "start": "node app.js",
